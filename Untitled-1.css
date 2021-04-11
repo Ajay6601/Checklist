@@ -1,0 +1,40 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+    font-size: xx-large;
+}
+h1,h2{
+    font-family: 'Rajdhani', sans-serif;
+}
+
+ol{
+    
+font-family: 'Nunito', sans-serif;
+}
+
+th,td{
+    
+    vertical-align: top;
+    text-align: left;
+    column-gap: 40px;
+    padding-left: 20px;
+    border: 1px solid black;
+}
+
+table{
+    border-collapse: separate;
+    border-spacing: 0 ;
+}
+
+th{
+    background-color: antiquewhite;
+}
+
+td{
+    text-decoration: azure;
+    font-family: 'Merriweather', serif;
+}
